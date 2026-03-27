@@ -1,0 +1,67 @@
+{
+    "login": {
+        "username": "Ashimbiswas1969",
+        "password": "Adxsh@irctc1923"
+    },
+
+    "journey": {
+        "from_station": "DURG - DURG (DURG)",
+        "to_station": "HOWRAH JN - HWH (Howrah / Kolkata)",
+        "journey_date": "29/03/2026",
+        "class": "SL",
+        "quota": "GN",
+        "train_number": "12833"
+    },
+
+    "passengers": [
+        {
+            "name": "Adarsh Biswas",
+            "age": 22,
+            "gender": "Male",
+            "berth_preference": "Lower",
+            "nationality": "India",
+            "id_type": "",
+            "id_number": "",
+            "food_choice": "No Food"
+        }
+    ],
+
+    "booking_options": {
+        "auto_upgrade": false,
+        "travel_insurance": false,
+        "mobile_number": "6266614713",
+        "boarding_station": ""
+    },
+
+    "payment": {
+        "method": "IRCTC eWallet",
+        "auto_confirm": false
+    },
+
+    "optimization": {
+        "disable_images": true,
+        "disable_css": false,
+        "headless": false,
+        "preload_time": "",
+        "tatkal_time": "",
+        "page_load_timeout": 30,
+        "implicit_wait": 5,
+        "explicit_wait": 20
+    },
+
+    "browser": {
+        "type": "chrome",
+        "multiple_instances": false,
+        "instance_count": 1,
+        "user_data_dir": "",
+        "profile_directory": ""
+    },
+
+    "_NOTES": {
+        "class_codes": "1A=First AC, 2A=AC 2 Tier, 3A=AC 3 Tier, 3E=AC 3 Economy, SL=Sleeper, CC=AC Chair Car, 2S=Second Sitting",
+        "quota_codes": "GN=General, TQ=Tatkal, PT=Premium Tatkal",
+        "gender_values": "Male, Female, Transgender",
+        "berth_values": "Lower, Middle, Upper, Side Lower, Side Upper, No Preference",
+        "date_format": "DD/MM/YYYY"
+    }
+}
